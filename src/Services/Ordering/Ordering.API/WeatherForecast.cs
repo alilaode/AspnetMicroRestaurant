@@ -1,4 +1,4 @@
-namespace WebApplication1
+namespace Ordering.API
 {
     public class WeatherForecast
     {
